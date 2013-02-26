@@ -1,0 +1,5 @@
+package dani
+
+object Sample {
+
+}
